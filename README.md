@@ -12,7 +12,7 @@
 ### The common way
  
  ```
-  git clone 
+  git clone https://github.com/soyglorialopez/single-page-app.git
  ```
 
  ```
